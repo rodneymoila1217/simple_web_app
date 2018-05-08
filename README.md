@@ -1,2 +1,3 @@
 # web_project
-my first web server on git
+* my first web server on git.
+
