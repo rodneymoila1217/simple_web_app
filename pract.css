@@ -1,0 +1,49 @@
+.body_background{
+	background-color: #000033;
+}
+.login_form{
+	background-color: #00FFFF;
+	margin-top: 120px;
+}
+.log_in{
+
+	width: 212px;
+	height: 34px;
+    background-color: #000033;
+    color: white;
+    border-color: #000033;
+	font-size: 14px;
+	font-family: Tahoma;
+    text-align:center;
+    border-radius: 4px;
+    # opacity: 50%;	
+}
+.input_box{
+	width: 200px;
+	height: 20px;
+	font-size: 14px;
+	font-family: Tahoma;
+	padding-left: 8px;
+    background-color: white;
+	border-radius: 2px;
+    	
+}
+.sign_Up{
+	width: 212px;
+	height: 34px;
+    background-color: #00FFFF;
+    color: #000033;
+    border-color: #000033;
+	font-size: 14px;
+	font-family: Tahoma;	
+	margin-top: 22px;
+	text-align:center;
+	border-radius: 4px;
+	margin-left: 520px;
+	#margin: auto;
+}
+.my_table{
+	#margin-left: 540px;
+	#margin: center-right;
+	margin: auto;
+}
