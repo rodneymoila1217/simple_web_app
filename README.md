@@ -2,6 +2,4 @@
 
 
 * My first web server on git.
-  
-dev passed
 
